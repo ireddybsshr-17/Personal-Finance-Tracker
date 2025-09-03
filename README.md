@@ -30,6 +30,8 @@ Backend -	Node.js, Express
 
 Database - MongoDB
 
+Styling - Tailwind CSS 
+
 # 📦 Installation
 
 ✅ Prerequisites:
