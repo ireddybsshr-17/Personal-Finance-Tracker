@@ -46,6 +46,11 @@ Express.js
 
 React.js
 
-# DEMO Link
+# Demo Link
 
 https://khata-book.netlify.app
+
+# Snapshot
+
+<img width="1317" height="612" alt="image" src="https://github.com/user-attachments/assets/46508bfe-1d0c-4bf8-b08b-5c8be40cacd1" />
+
