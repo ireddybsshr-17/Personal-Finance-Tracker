@@ -10,23 +10,34 @@ Managing personal finances efficiently is a growing challenge for many individua
 # 🚀 Features
 
 📋 Add, edit, delete expenses
+
 📊 Visual expense summary with charts
+
 🗂️ Categories for income & expenses
+
 🔐 CRUD operations for real-time expense tracking
+
 🌐 RESTful API integration (MongoDB + Express + Node)
+
 🎨 Responsive React UI with modern design
 
 
 # 🛠️ Tech Stack
 
 Frontend - React.js, Axios, Chart.js
+
 Backend -	Node.js, Express
+
 Database - MongoDB
 
 # 📦 Installation
 
 ✅ Prerequisites:
+
 Node.js
+
 MongoDB installed locally
+
 Express.js
+
 React.js
